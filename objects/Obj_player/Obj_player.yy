@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "player",
-    "path": "sprites/player/player.yy",
+    "name": "Spr_track_egg",
+    "path": "sprites/Spr_track_egg/Spr_track_egg.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "Obj_player",
   "tags": [],
   "resourceType": "GMObject",
 }
