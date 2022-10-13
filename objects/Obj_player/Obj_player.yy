@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_track_eggR",
-    "path": "sprites/Spr_track_eggR/Spr_track_eggR.yy",
+    "name": "Spr_track_egg_idleR",
+    "path": "sprites/Spr_track_egg_idleR/Spr_track_egg_idleR.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,6 +26,7 @@
     {"isDnD":true,"eventNum":40,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":38,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_Box","path":"objects/Obj_Box/Obj_Box.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
