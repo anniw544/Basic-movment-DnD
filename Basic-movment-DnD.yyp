@@ -2,7 +2,9 @@
   "resources": [
     {"id":{"name":"Spr_track_eggL","path":"sprites/Spr_track_eggL/Spr_track_eggL.yy",},"order":1,},
     {"id":{"name":"Spr_track_egg_idleL","path":"sprites/Spr_track_egg_idleL/Spr_track_egg_idleL.yy",},"order":2,},
+    {"id":{"name":"Obj_Box","path":"objects/Obj_Box/Obj_Box.yy",},"order":1,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
+    {"id":{"name":"Spr_Box","path":"sprites/Spr_Box/Spr_Box.yy",},"order":4,},
     {"id":{"name":"Spr_track_egg_idleR","path":"sprites/Spr_track_egg_idleR/Spr_track_egg_idleR.yy",},"order":3,},
     {"id":{"name":"Spr_track_eggR","path":"sprites/Spr_track_eggR/Spr_track_eggR.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
